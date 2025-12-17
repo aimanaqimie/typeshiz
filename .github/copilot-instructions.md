@@ -16,3 +16,4 @@
 - Be concise and minimize unnecessary prose.
 - If unsure, state so instead of guessing.
 - Avoid putting comments in code unless necessary for clarity.
+- Run all command using Command Prompt 
